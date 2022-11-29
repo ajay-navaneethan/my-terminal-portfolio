@@ -5,9 +5,9 @@ Hello Friend, This is Ajay Navaneethan Ruckmani. I'm a "<span id="k">cyber secur
 This is my portflio website in the skin of a terminal.<!-- pre intro --><p></p>
 <p>A hard-working student currently pursuing my master's in Network and Information security and looking for achallenging role in a reputable organisation. I have a strong technical background and excellent management skills which I gained from various internship experiences.</p> <!-- end of introduction -->
 <p> I keep myself updated constantly through CTFs, podcasts and writeups. </p>
-<p>I am a fast learner, problem solver, and a great team player with good communication skills to grasp quickly nd adapt to new environments.<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p>I am a fast learner, problem solver, and a great team player with good communication skills to grasp quickly and adapt to new environments.<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> more about myself. <br><br><br>  project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Ylinks to other professional profiles on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
 
 <p>You can connect with me through my <a href="https://www.linkedin.com/in/ajay-navaneethan-387ba9194/"> LinkedIn</a>.</p></p>
