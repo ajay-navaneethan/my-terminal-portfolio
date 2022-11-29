@@ -1,4 +1,4 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd portflio/<!-- line 1 -->About_me
+<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd portflio/<!-- line 1 -->About
 <span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- line 2 -->About_me.txt<br/><br/>
 Hello Friend, This is Ajay Navaneethan Ruckmani. I'm a "<span id="k">cyber security researcher</span>"<!-- sjkfhskjf -->
 
